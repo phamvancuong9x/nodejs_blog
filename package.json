@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamvancuong9x/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "nodes",
+    "f8",
+    "nodejs_blog",
+    "blog"
+  ],
+  "author": "cuongbg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamvancuong9x/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/phamvancuong9x/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
